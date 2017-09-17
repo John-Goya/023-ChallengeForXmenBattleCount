@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\John\Documents\Tech Academy\09 C#\18 Lesson 6 - Arrays and Iteration Statements\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
